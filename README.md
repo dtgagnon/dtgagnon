@@ -1,12 +1,10 @@
-## Hi there 👋
-
-# Hi, I’m Derek Gagnon 👋
+# Derek Gagnon
 
 **Medical Device Engineer | Product Development & Quality Expert | Rapid Prototyping Enthusiast**
 
 ---
 
-## 🩺 About Me
+## About Me
 
 With a foundation in **medical device engineering** and FDA-regulated product development, I specialize in cardiovascular devices, chemical sensors, electro-optics, and hemodynamics. Lately, I’ve been expanding my toolkit to include rapid prototyping (machining, welding, fabrication), firmware, and software/web development.
 
@@ -16,7 +14,7 @@ Whether building life-saving tech, designing new products, or automating my own 
 
 ---
 
-## 🛠️ Skills & Interests
+## Skills & Interests
 
 - **Medical Device R&D**: Product Development, Quality Engineering (FDA QSR/ISO 13485), Risk Analysis, Clinical/Regulatory Strategy
 - **Prototyping**: Machining, Welding, Additive Manufacturing, Electronics, PCB Design
@@ -26,7 +24,7 @@ Whether building life-saving tech, designing new products, or automating my own 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [**Web Portfolio**](https://github.com/dtgagnon/web-portfolio) ([derektgagnon.com](https://derektgagnon.com)):
   My personal site built with Next.js, TailwindCSS, and SQLite.
